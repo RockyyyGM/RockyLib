@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:renforced_diamond_ore",
+    "reformed_legacy:reinforced_diamond_block",
+    "reformed_legacy:reinforced_iron_bars",
+    "reformed_legacy:reinforced_iron_door",
+    "reformed_legacy:reinforced_iron_ore",
+    "reformed_legacy:green_diamond_ore",
+    "reformed_legacy:red_diamond_ore",
+    "reformed_legacy:green_diamond_block",
+    "reformed_legacy:red_diamond_block",
+    "reformed_legacy:metal_ore",
+    "reformed_legacy:metal_block",
+    "reformed_legacy:blue_reinforced_bricks",
+    "reformed_legacy:diamond_chest",
+    "reformed_legacy:magnif_block",
+    "reformed_legacy:red_emerald",
+    "reformed_legacy:red_emerald_ore_deepslate",
+    "reformed_legacy:red_emerald_ore",
+    "reformed_legacy:magnifictecioss_reinforced",
+    "reformed_legacy:blue_ruby_block"
+  ]
+}

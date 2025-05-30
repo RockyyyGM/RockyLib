@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:tracia_axe",
+    "reformed_legacy:green_diamond_axe",
+    "reformed_legacy:metal_axe",
+    "reformed_legacy:mace",
+    "reformed_legacy:diamond_hammer_3d",
+    "reformed_legacy:optinium_hammer",
+    "reformed_legacy:optinium_axe",
+    "reformed_legacy:emerald_a_axe",
+    "reformed_legacy:red_axe",
+    "reformed_legacy:red_reinforced_axe",
+    "reformed_legacy:aqua_dark_axe",
+    "reformed_legacy:aqua_axe",
+    "reformed_legacy:magne_axe",
+    "reformed_legacy:obsidian_axe",
+    "reformed_legacy:netherite_hammer",
+    "reformed_legacy:iron_hammer",
+    "reformed_legacy:redstone_hammer",
+    "reformed_legacy:lapis_lazuli_hammer",
+    "reformed_legacy:diamond_hammer",
+    "reformed_legacy:coppert_axe",
+    "reformed_legacy:redstonee_axe",
+    "reformed_legacy:blue_ruby_axe",
+    "reformed_legacy:cherry_axe",
+    "reformed_legacy:amethyst_axe"
+  ]
+}

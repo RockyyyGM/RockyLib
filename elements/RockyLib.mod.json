@@ -1,0 +1,11 @@
+{
+  "_fv": 79,
+  "_type": "tab",
+  "definition": {
+    "name": "Rocky Lib",
+    "icon": {
+      "value": "Blocks.LIGHT_BLUE_BED"
+    },
+    "showSearch": false
+  }
+}

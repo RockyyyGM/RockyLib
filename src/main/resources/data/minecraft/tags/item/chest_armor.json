@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:reformed_iron_chestplate",
+    "reformed_legacy:reinforced_diamond_chestplate",
+    "reformed_legacy:pale_armor_chestplate",
+    "reformed_legacy:yellow_diamond_chestplate",
+    "reformed_legacy:green_diamond_chestplate",
+    "reformed_legacy:red_diamond_chestplate",
+    "reformed_legacy:metal_chestplate",
+    "reformed_legacy:stone_chestplate",
+    "reformed_legacy:dirt_chestplate",
+    "reformed_legacy:blue_brick_armor_chestplate",
+    "reformed_legacy:creeper_chestplate",
+    "reformed_legacy:bedrock_armor_chestplate",
+    "reformed_legacy:pentist_chestplate",
+    "reformed_legacy:magnif_chestplate",
+    "reformed_legacy:emeralda_armor_chestplate",
+    "reformed_legacy:red_emerald_a_armor_chestplate",
+    "reformed_legacy:red_armor_chestplate",
+    "reformed_legacy:aqua_dark_armor_chestplate",
+    "reformed_legacy:magne_armor_chestplate",
+    "reformed_legacy:aqua_armor_chestplate",
+    "reformed_legacy:obsidian_armor_chestplate",
+    "reformed_legacy:copper_chestplate",
+    "reformed_legacy:redstone_chestplate",
+    "reformed_legacy:blue_ruby_armor_chestplate",
+    "reformed_legacy:cherry_armor_chestplate",
+    "reformed_legacy:amethyst_armor_chestplate"
+  ]
+}

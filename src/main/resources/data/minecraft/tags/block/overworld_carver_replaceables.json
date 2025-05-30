@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:colosal_grass",
+    "minecraft:stone",
+    "minecraft:rooted_dirt",
+    "reformed_legacy:red_reinforced_bricks",
+    "minecraft:dirt",
+    "minecraft:grass_block"
+  ]
+}

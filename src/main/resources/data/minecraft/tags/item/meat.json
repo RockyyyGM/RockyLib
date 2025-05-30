@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:grape",
+    "reformed_legacy:gold_porkchop_cooked",
+    "reformed_legacy:gold_porkchop",
+    "reformed_legacy:red_apple_juice",
+    "reformed_legacy:gree_apple_juice",
+    "reformed_legacy:vainilla_nutella",
+    "reformed_legacy:chocolate_nutella",
+    "reformed_legacy:strawberry_nutella",
+    "reformed_legacy:pizza"
+  ]
+}

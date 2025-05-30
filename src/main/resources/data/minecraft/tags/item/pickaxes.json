@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:tracia_pickaxe",
+    "reformed_legacy:green_diamond_pickaxe",
+    "reformed_legacy:red_diamond_hoe",
+    "reformed_legacy:red_diamond_axe",
+    "reformed_legacy:red_diamond_pickaxe",
+    "reformed_legacy:metal_pickaxe",
+    "reformed_legacy:mace",
+    "reformed_legacy:diamond_hammer_3d",
+    "reformed_legacy:optinium_hammer",
+    "reformed_legacy:optinium_pickaxe",
+    "reformed_legacy:emerald_a_pickaxe",
+    "reformed_legacy:red_pickaxe",
+    "reformed_legacy:red_reinforced_pickaxe",
+    "reformed_legacy:aqua_dark_pickaxe",
+    "reformed_legacy:aqua_pickaxe",
+    "reformed_legacy:magne_pickaxe",
+    "reformed_legacy:obsidian_pickaxe",
+    "reformed_legacy:netherite_hammer",
+    "reformed_legacy:iron_hammer",
+    "reformed_legacy:redstone_hammer",
+    "reformed_legacy:lapis_lazuli_hammer",
+    "reformed_legacy:diamond_hammer",
+    "reformed_legacy:coppert_pickaxe",
+    "reformed_legacy:redstonee_pickaxe",
+    "reformed_legacy:blue_ruby_pickaxe",
+    "reformed_legacy:cherry_pickaxe",
+    "reformed_legacy:amethyst_pickaxe"
+  ]
+}

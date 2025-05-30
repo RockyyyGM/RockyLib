@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:blue_water",
+    "reformed_legacy:aqua_water",
+    "reformed_legacy:brown_water",
+    "reformed_legacy:petrolleo",
+    "reformed_legacy:arcoiris_water",
+    "reformed_legacy:orange_water",
+    "reformed_legacy:water",
+    "reformed_legacy:purple_water",
+    "reformed_legacy:pink_water",
+    "reformed_legacy:yellow_water",
+    "reformed_legacy:toxic",
+    "reformed_legacy:blue_reinforced_bricks",
+    "reformed_legacy:cursed",
+    "reformed_legacy:milk",
+    "reformed_legacy:light_blue_water",
+    "reformed_legacy:red_water",
+    "reformed_legacy:green_water"
+  ]
+}

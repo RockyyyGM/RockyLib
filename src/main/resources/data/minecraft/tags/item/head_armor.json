@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:reformed_iron_helmet",
+    "reformed_legacy:reinforced_diamond_helmet",
+    "reformed_legacy:pale_armor_helmet",
+    "reformed_legacy:yellow_diamond_helmet",
+    "reformed_legacy:green_diamond_helmet",
+    "reformed_legacy:red_diamond_helmet",
+    "reformed_legacy:metal_helmet",
+    "reformed_legacy:stone_helmet",
+    "reformed_legacy:dirt_helmet",
+    "reformed_legacy:blue_brick_armor_helmet",
+    "reformed_legacy:creeper_helmet",
+    "reformed_legacy:bedrock_armor_helmet",
+    "reformed_legacy:pentist_helmet",
+    "reformed_legacy:magnif_helmet",
+    "reformed_legacy:emeralda_armor_helmet",
+    "reformed_legacy:red_emerald_a_armor_helmet",
+    "reformed_legacy:red_armor_helmet",
+    "reformed_legacy:aqua_dark_armor_helmet",
+    "reformed_legacy:magne_armor_helmet",
+    "reformed_legacy:aqua_armor_helmet",
+    "reformed_legacy:obsidian_armor_helmet",
+    "reformed_legacy:copper_helmet",
+    "reformed_legacy:redstone_helmet",
+    "reformed_legacy:blue_ruby_armor_helmet",
+    "reformed_legacy:cherry_armor_helmet",
+    "reformed_legacy:amethyst_armor_helmet"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:reformed_iron_leggings",
+    "reformed_legacy:reinforced_diamond_leggings",
+    "reformed_legacy:pale_armor_leggings",
+    "reformed_legacy:yellow_diamond_leggings",
+    "reformed_legacy:green_diamond_leggings",
+    "reformed_legacy:red_diamond_leggings",
+    "reformed_legacy:metal_leggings",
+    "reformed_legacy:stone_leggings",
+    "reformed_legacy:dirt_leggings",
+    "reformed_legacy:blue_brick_armor_leggings",
+    "reformed_legacy:creeper_leggings",
+    "reformed_legacy:bedrock_armor_leggings",
+    "reformed_legacy:pentist_leggings",
+    "reformed_legacy:magnif_leggings",
+    "reformed_legacy:emeralda_armor_leggings",
+    "reformed_legacy:red_emerald_a_armor_leggings",
+    "reformed_legacy:red_armor_leggings",
+    "reformed_legacy:aqua_dark_armor_leggings",
+    "reformed_legacy:magne_armor_leggings",
+    "reformed_legacy:aqua_armor_leggings",
+    "reformed_legacy:obsidian_armor_leggings",
+    "reformed_legacy:copper_leggings",
+    "reformed_legacy:redstone_leggings",
+    "reformed_legacy:blue_ruby_armor_leggings",
+    "reformed_legacy:cherry_armor_leggings",
+    "reformed_legacy:amethyst_armor_leggings"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:reformed_iron_boots",
+    "reformed_legacy:reinforced_diamond_boots",
+    "reformed_legacy:pale_armor_boots",
+    "reformed_legacy:yellow_diamond_boots",
+    "reformed_legacy:green_diamond_boots",
+    "reformed_legacy:red_diamond_boots",
+    "reformed_legacy:metal_boots",
+    "reformed_legacy:stone_boots",
+    "reformed_legacy:dirt_boots",
+    "reformed_legacy:axoltl_boots",
+    "reformed_legacy:blue_brick_armor_boots",
+    "reformed_legacy:creeper_boots",
+    "reformed_legacy:bedrock_armor_boots",
+    "reformed_legacy:pentist_boots",
+    "reformed_legacy:magnif_boots",
+    "reformed_legacy:emeralda_armor_boots",
+    "reformed_legacy:red_emerald_a_armor_boots",
+    "reformed_legacy:red_armor_boots",
+    "reformed_legacy:aqua_dark_armor_boots",
+    "reformed_legacy:magne_armor_boots",
+    "reformed_legacy:aqua_armor_boots",
+    "reformed_legacy:obsidian_armor_boots",
+    "reformed_legacy:copper_boots",
+    "reformed_legacy:redstone_boots",
+    "reformed_legacy:blue_ruby_armor_boots",
+    "reformed_legacy:cherry_armor_boots",
+    "reformed_legacy:amethyst_armor_boots"
+  ]
+}

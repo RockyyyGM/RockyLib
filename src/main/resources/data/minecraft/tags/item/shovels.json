@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:tracia_shovel",
+    "reformed_legacy:green_diamond_shovel",
+    "reformed_legacy:red_diamond_shovel",
+    "reformed_legacy:metal_shovel",
+    "reformed_legacy:emerald_a_shovel",
+    "reformed_legacy:red_shovel",
+    "reformed_legacy:red_reinforced_shovel",
+    "reformed_legacy:aqua_dark_shovel",
+    "reformed_legacy:aqua_shovel",
+    "reformed_legacy:magne_shovel",
+    "reformed_legacy:obsidian_shovel",
+    "reformed_legacy:coppert_shovel",
+    "reformed_legacy:redstonee_shovel",
+    "reformed_legacy:blue_ruby_shovel",
+    "reformed_legacy:cherry_shovel",
+    "reformed_legacy:amethyst_shovel"
+  ]
+}

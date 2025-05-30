@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:stripped_tracia_wood",
+    "reformed_legacy:tracia_wood",
+    "reformed_legacy:tracia_log",
+    "reformed_legacy:aqua_dark_log",
+    "reformed_legacy:magne_log",
+    "reformed_legacy:berny_planks",
+    "reformed_legacy:berny_log",
+    "reformed_legacy:berny_wood"
+  ]
+}

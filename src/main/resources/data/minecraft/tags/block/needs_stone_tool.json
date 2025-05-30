@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "reformed_legacy:trustanic_ore",
+    "reformed_legacy:trustanic_block",
+    "reformed_legacy:iron_chest",
+    "reformed_legacy:blasting_furnace",
+    "reformed_legacy:pentist_block",
+    "reformed_legacy:colsitem_b"
+  ]
+}
