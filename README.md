@@ -4,20 +4,20 @@
   <img src="https://github.com/user-attachments/assets/77155602-4db1-437c-821e-08615fc02c90" alt="RockyLib Banner" width="600"/>
 </p>
 
-**RockyLib** es un mod experimental para Minecraft que añade nuevas funciones, bloques, criaturas y sistemas pensados para expandir tu experiencia en el juego. ¡Desarrollado por Rocky con ideas originales y mecánicas únicas!
+**RockyLib** is an experimental mod for Minecraft that adds new features, blocks, creatures, and systems designed to expand your gaming experience. Developed by Rocky with original ideas and unique mechanics!
 
 ---
 
-## 🧱 Características principales
+## 🧱 Key Features
 
-- 🧱 Bloques especiales con propiedades personalizadas
-- 💡 Mecánicas de prueba para otros proyectos futuros
+- 🧱 Special blocks with custom properties
+- 💡 Testing mechanics for other future projects
 
 ---
 
-## 🔧 Estado actual
+## 🔧 Current status
 
-> 🔨 Mod **en desarrollo**. Algunas funciones podrían cambiar o estar incompletas.
+> 🔨 Mod **in development**. Some features may change or be incomplete.
 
-Versión actual: 2.2.485
+Current version: 2.2.485
 
