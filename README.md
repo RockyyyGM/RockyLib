@@ -19,5 +19,5 @@
 
 > 🔨 Mod **in development**. Some features may change or be incomplete.
 
-Current version: 2.2.485
+Current version: 2.3.576
 
